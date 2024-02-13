@@ -1,1 +1,1 @@
-# style-guide-demo
+# Style Guide Demo
