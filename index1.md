@@ -1,1 +1,0 @@
-# Style Guide Demo (Home1)
