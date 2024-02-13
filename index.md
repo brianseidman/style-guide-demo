@@ -1,1 +1,1 @@
-# Style Guide Demo (Home)
+# Style Guide Demo (HomeB)
