@@ -1,8 +1,7 @@
 title: Style Guide Demo
 description: This is a demo of the style guide.
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "mint" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
 defaults:
     # _docs
     - scope:

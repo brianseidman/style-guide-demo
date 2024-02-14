@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <url>
+        <loc>https://brianseidman.github.io/style-guide-demo/sitemap.xml</loc>
+    </url>
+    
+    <url>
+        <loc>https://brianseidman.github.io/style-guide-demo/assets/css/main.css</loc>
+    </url>
+    
+    <url>
+        <loc>https://brianseidman.github.io/style-guide-demo/assets/js/lunr/lunr-en.js</loc>
+    </url>
+    
+    <url>
+        <loc>https://brianseidman.github.io/style-guide-demo/assets/js/lunr/lunr-gr.js</loc>
+    </url>
+    
+    <url>
+        <loc>https://brianseidman.github.io/style-guide-demo/assets/js/lunr/lunr-store.js</loc>
+    </url>
+    
+    <url>
+        <loc>https://brianseidman.github.io/style-guide-demo/abbreviations,%20acronyms.html</loc>
+    </url>
+    
+    <url>
+        <loc>https://brianseidman.github.io/style-guide-demo/ages.html</loc>
+    </url>
+    
+    <url>
+        <loc>https://brianseidman.github.io/style-guide-demo/alignment,%20justification.html</loc>
+    </url>
+    
+    <url>
+        <loc>https://brianseidman.github.io/style-guide-demo/ampersand.html</loc>
+    </url>
+    
+    <url>
+        <loc>https://brianseidman.github.io/style-guide-demo/numbers,%20numerals.html</loc>
+    </url>
+    
+    <url>
+        <loc>https://brianseidman.github.io/style-guide-demo/</loc>
+    </url>
+    
+</urlset>
