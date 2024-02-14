@@ -1,6 +1,6 @@
 title: Style Guide Demo
 description: This is a demo of the style guide.
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "mint" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 defaults:
