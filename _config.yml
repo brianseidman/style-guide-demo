@@ -1,6 +1,7 @@
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
     - jekyll-remote-theme
+    - jekyll-include-cache
 title: Style Guide Demo
 description: This is a demo of the style guide. v0.0.1
 defaults:
