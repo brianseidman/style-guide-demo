@@ -11,4 +11,5 @@ defaults:
       values:
         sidebar:
           nav: "docs"
-plugins: jekyll-include-cache
+plugins: 
+    - jekyll-include-cache
