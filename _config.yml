@@ -277,9 +277,9 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # _pages
   - scope:
-      path: ""
+      path: "/pages"
       type: pages # posts
     values:
       layout: splash # single
