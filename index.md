@@ -13,8 +13,8 @@ And it would continue that entry sources are cited when available ... There migh
 
 ### Grammar/Punctuation
 
-- [abbreviations, acronyms](abbreviations,%20acronyms.md)
+- [abbreviations, acronyms](abbreviations-acronyms.md)
 - [ages](ages.md)
-- [alignment, justification](alignment,%20justification.md)
+- [alignment, justification](alignment-justification.md)
 - [ampersand \(&\)](ampersand.md)
-- [numbers, numerals](numbers,%20numerals.md)
+- [numbers, numerals](numbers, numerals.md)
