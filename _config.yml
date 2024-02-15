@@ -287,7 +287,10 @@ defaults:
       read_time: false
       comments: # true
       share: false
-      related: true
+      related: false
+      toc: true
+      toc_label: "My Table of Contents"
+      toc_icon: "cog"
       sidebar:
         nav: "docs"
 
