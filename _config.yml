@@ -289,8 +289,8 @@ defaults:
       share: false
       related: false
       toc: true
-      toc_label: "My Table of Contents"
-      toc_icon: "cog"
+      toc_label: "Contents"
+      toc_icon: # "cog"
       sidebar:
         nav: "docs"
 

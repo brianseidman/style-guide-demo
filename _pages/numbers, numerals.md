@@ -6,11 +6,14 @@ Exceptions: Use figures for credit hours, ages and whenever preceding a unit of 
 
 _The Tide finished first. He had nine laps to go. Fourth grade, the First Amendment, the 11th annual county fair, fifth century, 21st century. A 5-year-old boy_, but _the boy is 5 years old_. _The student is in his 70s._ _EN 101 is a 3-credit-hour course. Students must complete 30 credit hours._
 
-**Dates, years and decades:** _Class of ’66, the 1950s, Feb. 8, 2007_. Use a comma to set off the year when the phrase refers to a month, date and year. _They won the championship on January 9, 2017, and everyone celebrated._
+### Dates, years and decades:
+_Class of ’66, the 1950s, Feb. 8, 2007_. Use a comma to set off the year when the phrase refers to a month, date and year. _They won the championship on January 9, 2017, and everyone celebrated._
 
-**Grade point averages:** Use figures for grade point averages. Always include the decimal point and carry to at least one decimal place (2.0); when citing several GPAs, extend them all to the same (highest) decimal place (2.18, 4.00).
+### Grade point averages:
+ Use figures for grade point averages. Always include the decimal point and carry to at least one decimal place (2.0); when citing several GPAs, extend them all to the same (highest) decimal place (2.18, 4.00).
 
-**In a series:** Apply the standard guidelines mentioned above: _They had 10 dogs, six cats and 97 hamsters. They had four four-room houses, 10 three-room houses and 12 10-room houses._
+### In a series:
+Apply the standard guidelines mentioned above: _They had 10 dogs, six cats and 97 hamsters. They had four four-room houses, 10 three-room houses and 12 10-room houses._
 
 **Military ranks:** _1st Sgt. Jane Smith_, but _Smith was a second lieutenant._
 
