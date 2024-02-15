@@ -15,22 +15,22 @@ _Class of ’66, the 1950s, Feb. 8, 2007_. Use a comma to set off the year when 
 ### In a series
 Apply the standard guidelines mentioned above: _They had 10 dogs, six cats and 97 hamsters. They had four four-room houses, 10 three-room houses and 12 10-room houses._
 
-## Military ranks
+### Military ranks
  _1st Sgt. Jane Smith_, but _Smith was a second lieutenant._
 
-## Ranges
+### Ranges
  _Every two to three weeks_, but _a two-to-three-week session_ (if the numbers are part of a compound modifier). Be careful not to confuse numerical ranges with suspensive hyphenation. A numerical range would be, “They ran five-to-10-minute laps” (the laps were anywhere from five to 10 minutes); suspensive hyphenation indicates separate items, like “They alternated between five- and 10-minute intervals.”
 
-## School grades
+### School grades
  Spell out first through ninth grades: _fourth grade, fifth-grader_ (note hyphen). Use figures for grades 10 and above: _10th grade._
 
-## Test scores
+### Test scores
 Use figures for SAT, ACT and similar test scores. Use figures in constructions such as SAT-1. Do not add commas to SAT or other scores that reach into the thousands: _Her GRE composite score was 2070_.
 
-## Times
+### Times
  Use figures for time of day except for noon and midnight: _1 p.m., 10:30 a.m., 5 o’clock_. Spell out numbers less than 10 standing alone and in modifiers: _I’ll be there in five minutes. The two-minute warning._[^1]
 
-## With parenthesis
+### With parenthesis
  In general, a spelled-out number does not also need the figure in parentheses. In cases where this is necessary (for instance, customary on Program Development program plans), numbers one through nine (or any spelled-out number that starts a sentence) can be followed by the figure in parenthesis if the number is being compared: _We enrolled eight (8) students in the fall, a 33 percent increase from six (6) students in the spring,_ but _We held one information session in the fall._
 
 See also: [ages](ages.md), credit hours, time.
