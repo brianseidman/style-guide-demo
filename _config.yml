@@ -293,9 +293,15 @@ defaults:
       toc: true
       toc_label: "Contents"
       toc_icon: false # "cog"
+      toc_sticky: true
       sidebar:
         nav: "docs"
 
+# Collections*
+collections:
+  pages:
+    output: true
+    permalink: /:collection/:path/
 
 # defaults:
     # _docs
