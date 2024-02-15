@@ -15,5 +15,5 @@ And it would continue that entry sources are cited when available ... There migh
 - [abbreviations, acronyms](abbreviations, acronyms.md)
 - [ages](ages.md)
 - [alignment, justification](alignment, justification.md)
-- [ampersand \(&\)](ampersand.md)
+- [ampersand \(&\)](pages/ampersand.md)
 - [numbers, numerals](numbers, numerals.md)
