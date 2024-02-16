@@ -1,7 +1,12 @@
 ---
-layout: simple
+layout: single
 toc: false
 sidebar: false
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 ---
 
 # Welcome to the Style Guide Demo
