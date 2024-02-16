@@ -1,7 +1,5 @@
 ---
 toc    : false
-# search : # false
-# layout : search
 ---
 
 # Welcome to the Style Guide Demo
