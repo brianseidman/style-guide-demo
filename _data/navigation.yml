@@ -2,15 +2,15 @@
    - title: Grammar/Punctuation
      children:
        - title: "abbreviations, acronyms"
-         url: abbreviations, acronyms.md
+         url: abbreviations, acronyms
        - title: "ages"
-         url: ages.md
+         url: ages
        - title: "alignment, justification"
-         url: alignment, justification.md
+         url: alignment, justification
        - title: "ampersand (&)"
-         url: ampersand.md
+         url: ampersand
        - title: "numbers, numerals"
-         url: numbers, numerals.md
+         url: numbers, numerals
 
 
 # main:
