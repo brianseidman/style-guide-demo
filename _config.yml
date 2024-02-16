@@ -301,7 +301,7 @@ defaults:
 collections:
   pages:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:path/
 
 # defaults:
     # _docs
