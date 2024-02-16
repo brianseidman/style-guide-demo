@@ -1,4 +1,6 @@
-## abbreviations, acronyms
+---
+title: abbreviations, acronyms
+---
 
 Avoid long acronyms and using multiple acronyms in a series. When using an acronym, be sure the complete name has been spelled out at least once. According to AP, the acronym does not have to follow the formal name in parenthesis, but instead the acronym should be recognizable on its own when used.
 
