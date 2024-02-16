@@ -1,4 +1,5 @@
 ---
+layout: simple
 toc: false
 sidebar: false
 ---
@@ -13,8 +14,8 @@ And it would continue that entry sources are cited when available ... There migh
 
 ### Grammar/Punctuation
 
-- [abbreviations, acronyms](abbreviations, acronyms.md)
-- [ages](ages.md)
-- [alignment, justification](alignment, justification.md)
-- [ampersand \(&\)](ampersand.md)
+- [abbreviations, acronyms](_pages/abbreviations, acronyms.md)
+- [ages](_pages/ages.md)
+- [alignment, justification](_pages/alignment, justification.md)
+- [ampersand \(&\)](_pages/ampersand.md)
 - [numbers, numerals](_pages/numbers, numerals.md)

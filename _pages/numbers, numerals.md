@@ -1,3 +1,6 @@
+---
+title: numbers, numerals
+---
 # numbers, numerals
 
 In general, spell out one through nine and use figures for 10 or above.
