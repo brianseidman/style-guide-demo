@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Style Guide Demo"
 title_separator          : "-"
-subtitle                 : "This is a demo of the style guide. v0.0.3." # site tagline that appears below site title in masthead
+subtitle                 : "This is a demo of the style guide. v0.0.4." # site tagline that appears below site title in masthead
 name                     : "Your Name"
 description              : # "This is a demo of the style guide. v0.0.2."
 url                      : "https://brianseidman.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
